@@ -10,6 +10,6 @@ The below Have to be included in the Library Folder:
 *JDK 1.8, 
 *Apache Tomcat.
 
-Also the SQL Databse named; BadNoise.sql must be stored Locally.
+Also the SQL Database named; BadNoise.sql must be stored Locally.
 
 Finally, in order for each JSP page to play a selected song the actual mp3 files need to be included to the publir or private folder accordingly.

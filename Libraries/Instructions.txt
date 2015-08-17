@@ -1,4 +1,4 @@
-In the Libraries Folder you must include a: 
+In the Libraries Folder you must include: 
 *MySQL JDBC Driver - mysql-connector-java-5.1.23-bin.jar
 *gson-2.3.jar
 *JDK 1.8

@@ -5,9 +5,10 @@ The application is web based with a user friendly client side frontend and also 
 The system has been implemented by developing a Web application in the Netbeans  8.02 development platform with Java 6 EE, the local client connection  is done by  Apache Tomcat and finally the connection to the SQL database is done by WAMPSERVER 2.5 allowing access to user: badnoise and password: secret. 
 
 The below Have to be included in the Library Folder:
-*MySQL JDBC Driver - mysql-connector-java-5.1.23-bin.jar
-*gson-2.3.jar
-*JDK 1.8
+*MySQL JDBC Driver - mysql-connector-java-5.1.23-bin.jar, 
+*gson-2.3.jar, 
+*JDK 1.8, 
 *Apache Tomcat
+Also the SQL Databse named; BadNoise.sql must be stored Locally.
 
 Finally, in order for each JSP page to play a selected song the actual mp3 files need to be included to the publir or private folder accordingly.

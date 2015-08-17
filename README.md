@@ -8,7 +8,8 @@ The below Have to be included in the Library Folder:
 *MySQL JDBC Driver - mysql-connector-java-5.1.23-bin.jar, 
 *gson-2.3.jar, 
 *JDK 1.8, 
-*Apache Tomcat
+*Apache Tomcat.
+
 Also the SQL Databse named; BadNoise.sql must be stored Locally.
 
 Finally, in order for each JSP page to play a selected song the actual mp3 files need to be included to the publir or private folder accordingly.
